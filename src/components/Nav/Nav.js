@@ -10,12 +10,7 @@ const  Nav = () => {
                 <p className="flash-logo-text">FlashType</p>
             </div>
             <div className="nav-right">
-                <a 
-                    href="https://theleanprogrammer.com/aam" 
-                    target="_blank" 
-                    rel="noreffer"
-                    className="nav-aam-link">AAM
-                </a>
+                <p className="welcome-user">Welcome User!!</p>
             </div>
         </div>
     );
